@@ -1,0 +1,21 @@
+{
+  "name": "Custome-element",
+  "authors": [
+    "Santhoshkumar.K <santhoshkumark@ihorsetechnologies.com>"
+  ],
+  "description": "Polymer 2.0 Demo",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#2.0.0-rc.2"
+  }
+}
